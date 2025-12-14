@@ -111,8 +111,8 @@ This creates `glucose_comparison.png` showing all three algorithms' glucose traj
 
 This project is for academic purposes only. Not intended for clinical use.
 
-## Contact
+## Contributors
 
 For questions about this project:
-- Muhammed Bilal: bilal.m@northeastern.edu
-- Tiago Monteiro: monteiro.t@northeastern.edu 
+- Muhammed Bilal: https://www.linkedin.com/in/mbilal-ai/
+- Tiago Monteiro: https://www.linkedin.com/in/tiago-monteiro-/
