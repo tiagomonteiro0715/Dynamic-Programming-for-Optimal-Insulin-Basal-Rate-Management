@@ -1,8 +1,14 @@
 # Dynamic Programming for Optimal Insulin Basal Rate Management
 
-**CS 5800 Final Project**  
-Muhammed Bilal
-Tiago Monteiro
+
+![Glucose Trajectory Comparison](https://raw.githubusercontent.com/tiagomonteiro0715/Dynamic-Programming-for-Optimal-Insulin-Basal-Rate-Management/main/glucose_comparison.png)
+
+
+## Final Project Academic Context
+
+**Course**: CS 5800 - Algorithms  
+**Institution**: Northeastern University  
+**Semester**: Fall 2024
 
 ---
 
@@ -90,14 +96,6 @@ This creates `glucose_comparison.png` showing all three algorithms' glucose traj
 
 1. **Model Predictive Control**: Receding horizon optimization with real-time updates
 2. **Reinforcement Learning**: Learn optimal policies from patient-specific data
-
----
-
-## Academic Context
-
-**Course**: CS 5800 - Algorithms  
-**Institution**: Northeastern University  
-**Semester**: Fall 2024
 
 ---
 
